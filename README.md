@@ -1,2 +1,2 @@
 # guile-xmms
-Guile buildings for the XMMS client library
+Guile bindings for the XMMS client library
